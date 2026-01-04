@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector databases / runtime artifacts
+chroma_db/
+student_chroma_db/
+
+# OS
+.DS_Store
+
+# Docker
+*.log
